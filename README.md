@@ -7,9 +7,9 @@ A repository containing Image Processing programs using MATLAB, written to fulfi
 - Histogram Specification (CA1_Program.m)
 - Transformation using the Formula (CA1_Program.m):
 
-'''
+```
 T: s_k = a(r_k + b)
-'''
+```
 
 ## CA2 Processing Techniques
 
