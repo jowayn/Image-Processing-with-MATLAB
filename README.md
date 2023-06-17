@@ -1,5 +1,5 @@
 # Image-Processing-with-MATLAB
-A repository containing Image Processing programs using MATLAB, written to fulfill assignment requirements in the NUS module EE4704 Image Processing. This collection of functions are particularly beneficial to anyone looking to utilise this powerful tool to process images at scale. 
+A repository containing Image Processing programs written in MATLAB, done to fulfil assignment requirements in the NUS module EE4704 Image Processing. This collection of functions are particularly beneficial to anyone looking to utilise this powerful tool to process images at scale. 
 
 ## CA1 Processing Techniques
 
